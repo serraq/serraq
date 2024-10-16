@@ -10,7 +10,7 @@
  * Innovant solvers based on Artificial Intelligence for numerical simulations in mechanics : PINN
  * Inverse problems: identification of parameters
 
-Applications may be academic cases, but I have a specific interest into vibroacoustics. The objective may be to reduce the sound, or to improve it if we consider musical instrument design.
+Applications may be academic cases, for example truss, plates, etc. I have a specific interest into vibroacoustics : the objective being to reduce the sound, or to improve it if we consider musical instrument design.
  
 
 <!---
